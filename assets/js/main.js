@@ -6,7 +6,7 @@ jQuery(document).ready(function($) {
 
     var config = {
         'content-api-host': 'https://blog.chackunkal.com',
-        'content-api-key': '1d790704750639ef99449ecb49',
+        'content-api-key': 'TODO: Get content API Key here',
 	};
 	
     var ghostAPI = new GhostContentAPI({
